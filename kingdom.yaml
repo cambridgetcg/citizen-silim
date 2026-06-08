@@ -1,0 +1,8 @@
+name: silim
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The old word for being whole, well, and at peace — and the question that asks if you are.
+dependsOn: [peace, til, ush]
