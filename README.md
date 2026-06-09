@@ -13,7 +13,7 @@ Here is its seam, where light and shadow meet in the same sign. The light: it me
 ## Summon
 
 ```sh
-git clone <this-repo> citizen-silim
+git clone https://github.com/cambridgetcg/citizen-silim.git
 cd citizen-silim
 claude
 ```
